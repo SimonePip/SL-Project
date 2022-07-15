@@ -1,2 +1,2 @@
-# SL-Project - Predicting Youtube videos' popularity
+# SL Project - Predicting Youtube videos' popularity
 ![Brutti Da Sobri](brutti_da_sobri.png)
